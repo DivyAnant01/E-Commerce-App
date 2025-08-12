@@ -3,6 +3,7 @@ import Nav from '../../components/nav/Nav'
 import bg from '../../assets/bg0.gif'
 import './home.css'
 import { category } from '../../category'
+import Product from '../../components/Product/Product'
 
 function home() {
   return (
@@ -18,8 +19,9 @@ function home() {
             <span>{item.name}</span>
            </div>
         ))}
-      
       </div>
+      <h1>Trending Products</h1>
+      <Product/>
        
     </div>
   )
