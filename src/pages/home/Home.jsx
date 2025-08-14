@@ -25,7 +25,7 @@ function home() {
 
       <div className="category-section">
         {category.slice(0, 5).map((item) => (
-          <div className="category-card" onClick={()=>{
+          <div className="category-card" onClick={() => {
             filterProducts(item.name)
           }}>
             <img src={item.image} alt="" />
