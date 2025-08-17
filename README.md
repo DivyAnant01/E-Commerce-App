@@ -1,12 +1,46 @@
-# React + Vite
+# 🛒 VShopMart - E-Commerce App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](http://vshopmart.netlify.app)  
+![React](https://img.shields.io/badge/React-18-blue?logo=react)  
+![Vite](https://img.shields.io/badge/Vite-4-purple?logo=vite)  
+![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-green?logo=netlify)  
 
-Currently, two official plugins are available:
+VShopMart is a modern **E-Commerce Web Application** built with React (Vite).  
+It offers a responsive shopping experience with a clean UI and smooth user interactions.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo  
+🔗 **[View Live Site](http://vshopmart.netlify.app)**  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview  
+> _(Add a screenshot of your app UI here for better presentation)_  
+Example:  
+![App Screenshot](https://via.placeholder.com/800x400?text=VShopMart+Preview)  
+
+---
+
+## 📦 Installation & Setup  
+
+Follow these steps to run the project locally 👇  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/vshopmart.git
+
+cd vshopmart
+
+npm install
+
+npm run dev
+
+Now open 👉 http://localhost:5173
+
+🛠️ Build for Production
+npm run build
+
+npm run preview
+
+🔗 Live URL: http://vshopmart.netlify.app
