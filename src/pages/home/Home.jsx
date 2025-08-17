@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Nav from '../../components/nav/Nav'
 import bg from '../../assets/bg0.gif'
-import './home.css'
+import './Home.css'
 import { category } from '../../category'
 import Product from '../../components/Product/Product'
 import { dummydata } from '../../dummydata'
